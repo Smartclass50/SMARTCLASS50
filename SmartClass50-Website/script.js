@@ -1,1 +1,1 @@
-script.js
+console.log('SmartClass50 loaded');
