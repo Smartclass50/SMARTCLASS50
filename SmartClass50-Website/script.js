@@ -1,0 +1,1 @@
+console.log('SmartClass50 loaded');
